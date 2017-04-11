@@ -7,5 +7,13 @@ import {Component} from "@angular/core";
 })
 
 export class MainMenu{
-
+   
+    hideElement = false;
+    public onTap() {
+        alert("Hidden: " + this.hideElement);
+        if(this.hideElement)
+            this.hideElement = false;
+        else
+            this.hideElement = true;
+    }
 }
