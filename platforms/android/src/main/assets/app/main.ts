@@ -1,4 +1,4 @@
 import { platformNativeScriptDynamic } from "nativescript-angular/platform";
-import { AppModule } from "./app.module";
+import { AppModule } from "./modules/app.module";
 
 platformNativeScriptDynamic().bootstrapModule(AppModule);
