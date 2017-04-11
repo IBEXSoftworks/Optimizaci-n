@@ -1,4 +1,4 @@
 import { platformNativeScript } from "nativescript-angular/platform-static";
-import { AppModuleNgFactory } from "./modules/app.module.ngfactory";
+import { AppModuleNgFactory } from "./pages/app.module.ngfactory";
 
 platformNativeScript().bootstrapModuleFactory(AppModuleNgFactory);
