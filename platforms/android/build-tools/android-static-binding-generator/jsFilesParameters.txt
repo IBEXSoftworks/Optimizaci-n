@@ -1,3 +1,3 @@
 C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\modules\app.module.js
 C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\components\app.component.js
-C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\main.js
+C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\components\main_menu.component.js

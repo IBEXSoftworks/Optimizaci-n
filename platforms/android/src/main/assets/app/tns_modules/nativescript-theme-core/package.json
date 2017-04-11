@@ -2,18 +2,18 @@
   "_args": [
     [
       {
-        "raw": "nativescript-theme-core@~1.0.2",
+        "raw": "nativescript-theme-core@^1.0.3",
         "scope": null,
         "escapedName": "nativescript-theme-core",
         "name": "nativescript-theme-core",
-        "rawSpec": "~1.0.2",
-        "spec": ">=1.0.2 <1.1.0",
+        "rawSpec": "^1.0.3",
+        "spec": ">=1.0.3 <2.0.0",
         "type": "range"
       },
-      "C:\\Users\\honte\\Documents\\GitHub\\Optimizaci-n\\node_modules\\nativescript-template-ng-tutorial"
+      "C:\\Users\\honte\\Documents\\GitHub\\Optimizaci-n"
     ]
   ],
-  "_from": "nativescript-theme-core@>=1.0.2 <1.1.0",
+  "_from": "nativescript-theme-core@>=1.0.3 <2.0.0",
   "_id": "nativescript-theme-core@1.0.3",
   "_inCache": true,
   "_location": "/nativescript-theme-core",
@@ -29,22 +29,23 @@
   "_npmVersion": "3.10.9",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "nativescript-theme-core@~1.0.2",
+    "raw": "nativescript-theme-core@^1.0.3",
     "scope": null,
     "escapedName": "nativescript-theme-core",
     "name": "nativescript-theme-core",
-    "rawSpec": "~1.0.2",
-    "spec": ">=1.0.2 <1.1.0",
+    "rawSpec": "^1.0.3",
+    "spec": ">=1.0.3 <2.0.0",
     "type": "range"
   },
   "_requiredBy": [
-    "/nativescript-template-ng-tutorial"
+    "#USER",
+    "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-theme-core/-/nativescript-theme-core-1.0.3.tgz",
   "_shasum": "2d77dd6f1a1095d2a4968426c5bb33d8f825d7cd",
   "_shrinkwrap": null,
-  "_spec": "nativescript-theme-core@~1.0.2",
-  "_where": "C:\\Users\\honte\\Documents\\GitHub\\Optimizaci-n\\node_modules\\nativescript-template-ng-tutorial",
+  "_spec": "nativescript-theme-core@^1.0.3",
+  "_where": "C:\\Users\\honte\\Documents\\GitHub\\Optimizaci-n",
   "author": {
     "name": "Telerik",
     "email": "support@telerik.com"

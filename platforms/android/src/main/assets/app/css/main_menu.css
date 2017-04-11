@@ -1,0 +1,14 @@
+
+.my-btn{
+    background-color: #141414;
+    color: whitesmoke;
+    transition: all 0.8s;
+}
+.my-btn:active{
+    background-color: whitesmoke;
+    color: #141414;
+}
+.my-form{
+    margin-top: 25%;
+}
+
