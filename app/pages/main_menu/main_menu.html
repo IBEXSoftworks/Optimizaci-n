@@ -1,12 +1,15 @@
-<ActionBar title="Optimización"></ActionBar>
+<ActionBar title="{{actualLabel}}" class="action-bar"></ActionBar>
 <StackLayout class="form my-form">
-    <StackLayout class="input-field">
-        <Button  (tap)="onTap()" class="my-btn btn btn-rounded-lg" text="Teoria"></Button>
+    <StackLayout *ngIf="isTheory || isMenu" class="input-field">
+        <Button [text]="isTheory ? 'Regresar' : 'Teoria'" (tap)="viewTheory()" class="my-btn btn btn-rounded-lg" ></Button>
+        <theory *ngIf="isTheory"></theory>
     </StackLayout>
-    <StackLayout *ngIf="visible" class="input-field">
-        <Button class="my-btn btn btn-rounded-lg" text="Ejemplificaciones"></Button>
+    <StackLayout *ngIf="isExamples || isMenu" class="input-field">
+        <Button [text]="isExamples ? 'Regresar' : 'Ejemplificaciones'" (tap)="viewExamples()" class="my-btn btn btn-rounded-lg" ></Button>
+        <examples *ngIf="isExamples"></examples>
     </StackLayout>
-    <StackLayout class="input-field">
-        <Button   class="my-btn btn btn-rounded-lg"  text="Ejercicios"></Button>
+    <StackLayout *ngIf="isExercises || isMenu" class="input-field">
+        <Button [text]="isExercises ? 'Regresar' : 'Ejercicios'" (tap)="viewExercises()" class="my-btn btn btn-rounded-lg" ></Button>
+        <exercises *ngIf="isExercises"></exercises>
     </StackLayout>
 </StackLayout>

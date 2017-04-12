@@ -2,18 +2,56 @@ import {Component} from "@angular/core";
 
 @Component({
     selector: 'main-menu',
-    templateUrl: "./main_menu.html",
-    styleUrls: ['./main_menu.css']
+    templateUrl: "pages/main_menu/main_menu.html",
+    styleUrls: ['pages/main_menu/main_menu.css']
 })
 
-export class MainMenu{
+export class MainMenuComponent{
    
-    visible = true;
-    public onTap() {
-        if(this.visible)
-            this.visible = false;
+    isTheory = false;
+    isExamples = false;
+    isExercises = false;
+    isMenu = true;
+    actualLabel:string = "Optimización"
+
+    public viewExercises() {
+        if(this.isExercises){
+            this.isExercises = false;
+            this.isMenu = true;
+            this.actualLabel = "Optimización";
+        }
+        else{
+            this.isExercises = true;
+            this.isMenu = false;
+            this.actualLabel = "Ejercicios";
+        }
+    }
+    public viewTheory(){
+        if(this.isTheory)
+        {
+            this.isTheory = false;
+            this.isMenu = true;
+            this.actualLabel = "Optimización";
+        }
         else
-            this.visible = true;
-        alert("Hidden: " + this.visible);
+        {
+            this.isTheory = true;
+            this.isMenu = false;
+            this.actualLabel = "Teoría";
+        }
+    }
+    public viewExamples(){
+        if(this.isExamples)
+        {
+            this.isExamples = false;
+            this.isMenu = true;
+            this.actualLabel = "Optimización";
+        }
+        else
+        {
+            this.isExamples = true;
+            this.isMenu = false;
+            this.actualLabel = "Ejemplos";
+        }
     }
 }

@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.Optimizacin" 
+    applicationId = "org.nativescript.Optimizacion" 
     
     //override supported platforms
     // ndk {

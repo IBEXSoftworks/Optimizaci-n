@@ -1,4 +1,1 @@
-C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\pages\main_menu\main_menu.component.js
-C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\pages\app.module.js
-C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\pages\app\app.component.js
-C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\main.js
+C:\Users\honte\Documents\GitHub\Optimizaci-n\platforms\android\src\main\assets\app\pages\teoria\teoria.component.js
