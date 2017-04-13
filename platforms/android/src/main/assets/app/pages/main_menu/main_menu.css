@@ -1,7 +1,7 @@
 
 .my-btn{
     background-color: #141414;
-    color: whitesmoke;
+    color: white;
     transition: all 0.8s;
 }
 .my-btn:active{

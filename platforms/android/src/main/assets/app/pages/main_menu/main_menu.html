@@ -1,15 +1,12 @@
 <ActionBar title="{{actualLabel}}" class="action-bar"></ActionBar>
-<StackLayout class="form my-form">
-    <StackLayout *ngIf="isTheory || isMenu" class="input-field">
-        <Button [text]="isTheory ? 'Regresar' : 'Teoria'" (tap)="viewTheory()" class="my-btn btn btn-rounded-lg" ></Button>
-        <theory *ngIf="isTheory"></theory>
-    </StackLayout>
-    <StackLayout *ngIf="isExamples || isMenu" class="input-field">
-        <Button [text]="isExamples ? 'Regresar' : 'Ejemplificaciones'" (tap)="viewExamples()" class="my-btn btn btn-rounded-lg" ></Button>
-        <examples *ngIf="isExamples"></examples>
-    </StackLayout>
-    <StackLayout *ngIf="isExercises || isMenu" class="input-field">
-        <Button [text]="isExercises ? 'Regresar' : 'Ejercicios'" (tap)="viewExercises()" class="my-btn btn btn-rounded-lg" ></Button>
-        <exercises *ngIf="isExercises"></exercises>
-    </StackLayout>
+<StackLayout *ngIf="isMenu" class="input-field">
+    <Button [text]="'Teoria'" (tap)="switchTo('Theory')" class="my-btn btn btn-rounded-lg"></Button>
+    <Button [text]="'Ejemplificaciones'" (tap)="switchTo('Examples')" class="my-btn btn btn-rounded-lg"></Button>
+    <Button [text]="'Ejercicios'" (tap)="switchTo('Exercises')" class="my-btn btn btn-rounded-lg"></Button>
+</StackLayout>
+<StackLayout *ngIf="!isMenu" class="input-field">
+    <Button [text]="'Regresar'" (tap)="switchTo('Menu')" class="my-btn btn btn-rounded-lg"></Button>
+    <theory *ngIf="isTheory"></theory>
+    <examples *ngIf="isExamples"></examples>
+    <exercises *ngIf="isExercises"></exercises>
 </StackLayout>
