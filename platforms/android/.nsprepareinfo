@@ -1,7 +1,7 @@
 {
-	"time": "Wed Apr 12 2017 20:17:57 GMT-0500 (CDT)",
+	"time": "Wed Apr 12 2017 21:27:56 GMT-0500 (Hora de verano central (México))",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Wed Apr 12 2017 20:17:57 GMT-0500 (CDT)"
 }

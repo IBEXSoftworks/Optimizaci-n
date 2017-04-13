@@ -12,29 +12,31 @@ export class MainMenuComponent{
     isExamples = false;
     isExercises = false;
     isMenu = true;
-    actualLabel:string = "Optimización"
+    actualLabel:string = "Optimización";
+    menuItems:string[] = ["Teoría","Ejercicios", "Ejemplos"]
 
     private switchTo(act: string) {
         this.isMenu = false;
         this.isExercises = false;
         this.isExamples = false;
         this.isTheory = false;
+        
         switch (act) {
             case "Menu":
                 this.isMenu = true;
                 this.actualLabel = "Optimización";
                 break;
-            case "Exercises":
+            case "Ejercicios":
                 this.isExercises = true;
-                this.actualLabel = "Ejercicios";
+                this.actualLabel = act;
                 break;
-            case "Examples":
+            case "Ejemplos":
                 this.isExamples = true;
-                this.actualLabel = "Ejemplos";
+                this.actualLabel = act;
                 break;
-            case "Theory":
+            case "Teoría":
                 this.isTheory = true;
-                this.actualLabel = "Teoría";
+                this.actualLabel = act;
                 break;
         }
     }
