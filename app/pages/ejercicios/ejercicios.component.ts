@@ -11,9 +11,9 @@ export class ExercisesComponent
 {
     pdfSrc = "";
     public constructor () {
-    let currentAppFolder = fs.knownFolders.currentApp();
-    console.log("este folder: " + currentAppFolder.path);
-    this.pdfSrc = currentAppFolder.path + "/appFiles/ejemplosOptimizacion.pdf";
-    // this.pdfSrc = "https://www.princexml.com/samples/invoice/invoicesample.pdf";
-  }
+        let currentAppFolder = fs.knownFolders.currentApp();
+        console.log("este folder: " + currentAppFolder.path);
+        this.pdfSrc = currentAppFolder.path + "/appFiles/ejemplosOptimizacion.pdf";
+        // this.pdfSrc = "https://www.princexml.com/samples/invoice/invoicesample.pdf";
+    }
 }
