@@ -4,6 +4,15 @@
     color: white;
     transition: all 0.8s;
 }
+.my-btn-red{
+    background-color: #e74c3c;
+}
+.my-btn-blue{
+    background-color: #3498db;
+}
+.my-btn-green{
+    background-color: #2ecc71;
+}
 .my-btn:active{
     background-color: whitesmoke;
     color: #141414;
@@ -13,3 +22,7 @@
     display: none;
 }
 
+.my-menu{
+    margin-top: 25%;
+    margin-bottom: 25%;
+}

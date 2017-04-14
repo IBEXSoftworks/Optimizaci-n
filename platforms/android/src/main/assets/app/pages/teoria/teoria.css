@@ -1,6 +1,10 @@
 .myText{
     color: #141414
 }
+.my-ActionBar{
+    color: #ecf0f1;
+    background-color: #e74c3c;
+}
 hr {
     display: block;
     height: 1px;

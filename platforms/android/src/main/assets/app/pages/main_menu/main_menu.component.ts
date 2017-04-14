@@ -7,5 +7,9 @@ import {Component} from "@angular/core";
 })
 
 export class MainMenuComponent{
-    menuItems:string[][] = [ ["Teoría", "teoria"], ["Ejercicios Resueltos", "ejercicios"], ["Ejemplos", "ejemplos"]];
+    menuItems:string[][] = [ 
+        ["Teoría", "teoria", "my-btn-red"], 
+        ["Ejercicios Resueltos", "ejercicios","my-btn-blue"], 
+        ["Ejemplos", "ejemplos","my-btn-green"]
+    ];
 }

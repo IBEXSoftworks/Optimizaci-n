@@ -11,7 +11,7 @@ export class TheoryComponent
     p1:string =
 `
 <b><h1>Optimización</h1></b>
-<hr>
+<hr style="color: black; background-color: black; border: black 1px solid;">
 <h2>¿Qué es optimización aplicado al cálcuo?</h2>
 <p>Pues es la aplicación del concepto de derivada sobre un modelo matemático que describe una problemática de la vida real.</p>
 <p>Recordemos que la derivada es la pendiente de la recta tangente a un punto de la función a derivar. Por lo que, cuando derivamos dicha función e igualamos a 0 el resultado de esa derivación, estamos encontrando el punto en donde la pendiente es 0, lo que significa que, al tener una pendiente con valor 0, la recta tangente es una linea paralela al eje de las 'x'.</p>
