@@ -1,5 +1,9 @@
 .myText{
-    color: #141414
+    color: #141414;
+    margin: 15px;
+    margin-bottom: 0px;
+    text-align: justify;
+     text-justify: inter-word;
 }
 .my-ActionBar{
     color: #ecf0f1;
