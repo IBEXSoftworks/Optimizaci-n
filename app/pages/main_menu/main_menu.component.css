@@ -3,6 +3,8 @@
     background-color: #141414;
     color: white;
     transition: all 0.8s;
+    font-size: 18;
+    height: 60;
 }
 .my-btn-red{
     background-color: #e74c3c;
@@ -14,7 +16,7 @@
     background-color: #2ecc71;
 }
 .my-btn:active{
-    background-color: whitesmoke;
+    background-color: lightgray;
     color: #141414;
 }
 
@@ -23,6 +25,9 @@
 }
 
 .my-menu{
-    margin-top: 25%;
-    margin-bottom: 25%;
+    /*background-color: black;*/
+    margin-right: 16;
+    margin-left: 16;
+    height: 230;
+    width: 85%;
 }
