@@ -1,7 +1,0 @@
-{
-    "folders": [{
-        "path": ".",
-        "folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings", ".sass-cache"],
-        "file_exclude_patterns": ["*.pyc", "*.pyo", ".project", "*.js", "*.map"]
-    }]
-}
