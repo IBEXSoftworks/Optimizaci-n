@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ex",
+				"ExercisesComponent"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"vec",
+				"vector\tstd::vector"
+			],
+			[
+				"ve",
+				"vector\tstd::vector"
+			],
+			[
+				"di",
+				"diferencia\t(conjunto.h)"
+			],
+			[
+				"imp",
+				"impLista\t(Lista.h)"
+			],
+			[
+				"ine",
+				"interseccion"
+			],
+			[
+				"esva",
+				"esvacio"
+			],
+			[
+				"esv",
+				"esvacia\t(Lista.h)"
+			],
+			[
+				"g",
+				"gX"
+			],
+			[
+				"mpa",
+				"mapa"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"sig",
+				"sigsize"
+			],
+			[
+				"nod",
+				"nodo1"
+			],
+			[
+				"pai",
+				"pair"
+			],
+			[
+				"pa",
+				"pairs"
+			],
+			[
+				"nodo",
+				"nodo1"
+			],
+			[
+				"p",
+				"pairs"
+			],
+			[
+				"im",
+				"imp2D"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"tim",
+				"timeAsigned"
+			],
+			[
+				"dist",
+				"distFinal"
+			],
+			[
+				"dis",
+				"distFinal"
+			],
+			[
+				"prio",
+				"prioridad"
+			],
+			[
+				"rand",
+				"randPrior"
+			],
+			[
+				"Nodo",
+				"NodoElem"
+			],
+			[
+				"con",
+				"consListaInt"
+			],
+			[
+				"pega",
+				"pegaListas"
+			],
+			[
+				"num",
+				"numElem"
+			],
+			[
+				"Ele",
+				"ElemValue"
+			],
+			[
+				"is",
+				"isempty"
+			],
+			[
+				"pri",
+				"priority\t(ElemChar.h)"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"in",
+				"infixToPostfix"
+			],
+			[
+				"cons",
+				"consListaInt\t(main.cpp)"
+			],
+			[
+				"or",
+				"ordena\t(Lista.h)"
+			],
+			[
+				"total",
+				"totalMonthCount"
+			],
+			[
+				"update",
+				"updateCustomIDAndStatus"
+			],
+			[
+				"gene",
+				"generateCustomID"
+			],
+			[
+				"order",
+				"orderData"
+			],
+			[
+				"time",
+				"timestamps\t(2017_01_26_181150_create_in_shopping_carts_table.php)"
+			],
+			[
+				"paymen",
+				"paymentId"
+			],
+			[
+				"Pa",
+				"PayPal"
+			],
+			[
+				"_Clien",
+				"_ClientSecret"
+			],
+			[
+				"pro",
+				"product\t(index.blade.php)"
+			],
+			[
+				"Sho",
+				"ShoppingCart"
+			],
+			[
+				"shopp",
+				"shopping_cart"
+			],
+			[
+				"shop",
+				"shopping_cart"
+			],
+			[
+				"sho",
+				"shopping_cart"
+			],
+			[
+				"in_",
+				"in_shopping_carts\t(ShoppingCart.php)"
+			],
+			[
+				"cre",
+				"createWithoutSession"
+			],
+			[
+				"find",
+				"findBySession"
+			],
+			[
+				"shopi",
+				"shopping_cart"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"laravel-",
+				"laravel-elixir-vue\t(gulpfile.js)"
+			],
+			[
+				"Contro",
+				"Controllers\t(Controller.php)"
+			],
+			[
+				"Cont",
+				"Controller\t(HomeController.php)"
+			],
+			[
+				"boton",
+				"boton2"
+			],
+			[
+				"insert",
+				"insertCell"
+			],
+			[
+				"last",
+				"lastrow"
+			],
+			[
+				"ins",
+				"insertRow"
+			],
+			[
+				"las",
+				"lastcell"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"html",
+				"htmldivciclos"
+			],
+			[
+				"lis",
+				"listaciclos\t(index.html)"
+			],
+			[
+				"div",
+				"divciclos"
+			],
+			[
+				"cicl",
+				"ciclosFinalFinal"
+			],
+			[
+				"ci",
+				"ciclo"
+			],
+			[
+				"arr",
+				"arrdeciclos"
+			],
+			[
+				"arrde",
+				"arrdeciclosoriginal"
+			],
+			[
+				"ciclo",
+				"ciclosFinalFinal"
+			],
+			[
+				"chec",
+				"checkedNodes"
+			],
+			[
+				"chekc",
+				"checkedNodes"
+			],
+			[
+				"cue",
+				"cuentaCiclosPorNodo"
+			],
+			[
+				"cil",
+				"ciclosFinal"
+			],
+			[
+				"uni",
+				"unicociclo"
+			],
+			[
+				"cic",
+				"ciclo"
+			],
+			[
+				"no",
+				"nodosChecados"
+			],
+			[
+				"result",
+				"resultadocuenta"
+			],
+			[
+				"che",
+				"checkedNodes"
+			],
+			[
+				"nodoa",
+				"nodoAbuscar"
+			],
+			[
+				"resul",
+				"resultcomparacion"
+			],
+			[
+				"res",
+				"resultado"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"elem",
+				"elemento"
+			],
+			[
+				"el",
+				"elemento"
+			],
+			[
+				"ulti",
+				"ultimaposoperador1"
+			],
+			[
+				"ul",
+				"ultimaposoperador1"
+			],
+			[
+				"gl",
+				"global"
+			],
+			[
+				"valor",
+				"valor"
+			],
+			[
+				"resu",
+				"resultadoFinal"
+			],
+			[
+				"op",
+				"operacionesdevalor1"
+			],
+			[
+				"posO",
+				"posOperadorActual"
+			],
+			[
+				"pos",
+				"posOperadorActual"
+			],
+			[
+				"oper",
+				"operacionesdevalor2"
+			],
+			[
+				"ope",
+				"operador"
+			],
+			[
+				"opera",
+				"operador"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"tipo",
+				"tipoMatriz"
+			],
+			[
+				"gr",
+				"GrafoI"
+			],
+			[
+				"valo",
+				"valorbotonopuesto"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/pages/ejemplos/ejemplos.component.ts",
+			"settings":
+			{
+				"buffer_size": 532,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/pages/ejemplos/ejemplos.html",
+			"settings":
+			{
+				"buffer_size": 98,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "format",
+		"selected_items":
+		[
+			[
+				"format",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"typescript",
+				"TypeScript: Format Selection"
+			],
+			[
+				"codefor",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"format sass",
+				"CodeFormatter: Format as SCSS Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"be",
+				"PHP CodeBeautifier"
+			],
+			[
+				"codeform",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"jshin",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jshi",
+				"Build With: JSHint"
+			],
+			[
+				"npm",
+				"npm: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/san/GIT/Optimizaci-n2",
+		"/home/san/GIT/Optimizaci-n2/app",
+		"/home/san/GIT/Optimizaci-n2/app/pages",
+		"/home/san/GIT/Optimizaci-n2/app/pages/ejemplos"
+	],
+	"file_history":
+	[
+		"/home/san/GIT/Optimizaci-n2/app/pages/main_menu/main_menu.html",
+		"/home/san/GIT/Optimizaci-n2/app/pages/main_menu/main_menu.component.ts",
+		"/home/san/GIT/Optimizaci-n2/app/app.routing.ts",
+		"/home/san/GIT/Optimizaci-n2/app/app.module.ts",
+		"/home/san/GIT/Optimizaci-n2/app/item/items.component.html",
+		"/home/san/GIT/Optimizaci-n2/app/item/items.component.ts",
+		"/home/san/GIT/Optimizaci-n/app/pages/app.module.ts",
+		"/home/san/GIT/Optimizaci-n2/app/main.ts",
+		"/home/san/GIT/Optimizaci-n2/Optimizaci-n2.sublime-project",
+		"/home/san/GIT/Optimizaci-n2/package.json",
+		"/home/san/GIT/Optimizaci-n/app/app.routing.ts",
+		"/home/san/GIT/Optimizaci-n/Optimizaci-n.sublime-project",
+		"/home/san/nativescriptApps/Groceries/groceries.sublime-project",
+		"/home/san/nativescriptApps/Groceries/app/pages/sign/in/sign-in.xml",
+		"/home/san/nativescriptApps/Groceries/app/app.component.ts",
+		"/home/san/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+		"/home/san/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/san/nativescriptApps/Groceries/app/pages/sign/in/sign-in.html",
+		"/home/san/.config/sublime-text-3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/SublimeAStyleFormatter/Default (Linux).sublime-keymap",
+		"/home/san/nativescriptApps/Groceries/untitled.sublime-project",
+		"/home/san/nativescriptApps/Groceries/app/app.module.ts",
+		"/home/san/nativescriptApps/Groceries/app/app.component.js",
+		"/home/san/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/san/nativescriptApps/Groceries/app/app.css",
+		"/home/san/nativescriptApps/Groceries/app/shared/user/user.ts",
+		"/home/san/nativescriptApps/Groceries/app/pages/sign/in/sign-in-common.css",
+		"/home/san/nativescriptApps/Groceries/app/pages/sign/in/sign-in.css",
+		"/home/san/nativescriptApps/Groceries/app/pages/sign/sign-common.css",
+		"/home/san/nativescriptApps/Groceries/app/sign-in.xml",
+		"/home/san/nativescriptApps/Groceries/app/css/sign-in.css",
+		"/home/san/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/san/nativescriptApps/Groceries/app/main-page.xml",
+		"/home/san/nativescriptApps/Groceries/app/scss/sign-in.scss",
+		"/home/san/nativescriptApps/Groceries/app/sign-in.css",
+		"/home/san/nativescriptApps/Groceries/app/scss/app.scss",
+		"/home/san/nativescriptApps/Groceries/.sublime-project",
+		"/home/san/nativescriptApps/Groceries/app/css/app.css",
+		"/home/san/nativescriptApps/Groceries/config.rb",
+		"/home/san/.cache/.fr-wuPEkP/main.cpp",
+		"/home/san/CodeJam/C-small-1-attempt0.in",
+		"/home/san/CodeJam/output.txt",
+		"/home/san/CodeJam/B-small-attempt0.in",
+		"/home/san/Algoritmia/cubi-laberinto.cpp",
+		"/home/san/nativescriptApps/HelloWorld/HelloWorld.sublime-project",
+		"/home/san/nativescriptApps/HelloWorld/app/app.component.ts",
+		"/home/san/nativescriptApps/HelloWorld/app/main-page-style.scss",
+		"/home/san/nativescriptApps/HelloWorld/app/main-pagecss.scss",
+		"/home/san/nativescriptApps/HelloWorld/app/app.css",
+		"/home/san/nativescriptApps/HelloWorld/app/_app-common.scss",
+		"/media/san/serchescom/ClubAlgoritmia2/bfs.cpp",
+		"/home/san/.config/sublime-text-3/Packages/C++/Snippets/std-vector-(v).sublime-snippet",
+		"/home/san/.config/sublime-text-3/Packages/C++/Snippets/std-map-(map).sublime-snippet",
+		"/home/san/.config/sublime-text-3/Packages/C++/C++.sublime-settings",
+		"/home/san/.config/sublime-text-3/Packages/C++/C++.sublime-syntax",
+		"/home/san/Algoritmia/cubi-laberinto",
+		"/home/san/GIT/courses/01-getting-started-with-angular2/lessons-server.ts",
+		"/home/san/nativescriptApps/HelloWorld/app/main-page.xml",
+		"/home/san/nativescriptApps/HelloWorld/app/app.module.ts",
+		"/home/san/GIT/EstructurasDeDatos/conjuntoconlista/Lista.h",
+		"/home/san/GIT/EstructurasDeDatos/conjuntoconlista/main.cpp",
+		"/home/san/GIT/EstructurasDeDatos/conjuntoconlista/conjunto.h",
+		"/home/san/nativescriptApps/HelloWorld/app/app.ios.scss",
+		"/home/san/nativescriptApps/HelloWorld/app/app.android.scss",
+		"/home/san/Algoritmia/aplusb.cpp",
+		"/home/san/Algoritmia/a.cpp",
+		"/home/san/Algoritmia/b.cpp",
+		"/home/san/Downloads/concurso.cpp",
+		"/media/san/serchescom/ClubAlgoritmia2/b.cpp",
+		"/media/san/serchescom/ClubAlgoritmia2/in",
+		"/home/san/GIT/EstructurasDeDatos/Bicola/Cola.h",
+		"/home/san/Hackerrank/a.java",
+		"/home/san/programFiles/startup/prueba",
+		"/home/san/programFiles/startup/prueba.sh",
+		"/home/san/programFiles/startup/out",
+		"/home/san/Hackerrank/in",
+		"/home/san/programFiles/startup/gitup.sh",
+		"/home/san/GIT/EstructurasDeDatos/ColaCircular/main.cpp",
+		"/home/san/Desktop/bfs.cpp",
+		"/home/san/Downloads/bfs.cpp",
+		"/home/san/GIT/EstructurasDeDatos/priorqueue/priorqueue.cpp",
+		"/home/san/GIT/EstructurasDeDatos/priorqueue/main.cpp",
+		"/media/san/serchescom/ClubAlgoritmia2/suma.cpp",
+		"/home/san/EstructurasDeDatos/ColaCircular/main.cpp",
+		"/home/san/EstructurasDeDatos/ColaCircular/Colac.h",
+		"/home/san/AppsDiscretas/Parcial3/OrderWords.py",
+		"/home/san/AppsDiscretas/Parcial3/relaciones/main.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/cribaErastotenes.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/descifrarBruto.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/getchar.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/isPrime.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/main.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/mcm.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/miller.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/myRSA.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/primeFactors.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/primos.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/rsaClient.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/rsaInterceptor.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/rsaMenu.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/rsaRecibeClavePrivada.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/rsaServer.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/congruencias.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/ExpBinaria.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/CriteriosDivisibilidad.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/CambioDeBase.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/AlgoritmoExtendidoEuclides.py",
+		"/home/san/AppsDiscretas/Parcial2RsaFinal/AlgoritmoDivision.py",
+		"/media/san/serchescom/main.cpp",
+		"/media/san/SerchEscom/main.cpp",
+		"/home/san/EstructurasDeDatos/ColaPriorConLista/ColaListaPriorFull.cpp",
+		"/home/san/EstructurasDeDatos/ColaPriorConLista/main.cpp",
+		"/home/san/EstructurasDeDatos/ColaPriorConLista/Lista.h",
+		"/home/san/EstructurasDeDatos/ColaPriorConLista/Elem.h",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/ColaPriorConLista/ColaListaPriorFull.cpp",
+		"/home/san/EstructurasDeDatos/ArbolBinarioCpp/BinaryTree.cpp",
+		"/home/san/EstructurasDeDatos/ColaPriorConLista/ElemInt.h",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Pila/Pila.h",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Pila/ElemChar.h",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Pila/main.cpp",
+		"/media/san/Sergio1CV1/ClubAlgoritmia2/alphabetStickers.cpp",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Lista/ElemInt.h",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Lista/Lista.h",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Lista/main.cpp",
+		"/media/san/Sergio1CV1/EstructurasDeDatos/Lista/ElemStr.h",
+		"/home/san/EstructurasDeDatos/Lista/main.cpp",
+		"/home/san/EstructurasDeDatos/Lista.h"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+			"<project>",
+			"/var/www/html/ecommerce/resources/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ngmodel",
+			"login",
+			"%",
+			"qp",
+			"lli",
+			"ult",
+			"prim",
+			"vector",
+			"map",
+			"node",
+			"]);\n",
+			"-> ultimo",
+			"nuevo",
+			"impElemValue",
+			"s",
+			"x",
+			"cons",
+			"push",
+			"n",
+			"esMenor",
+			"IgualesElem",
+			"impelem",
+			"numelem",
+			"orders",
+			"pynotify",
+			"35646778",
+			"innerhtml",
+			"debug",
+			"console",
+			"imprimeresult",
+			"echo",
+			"br",
+			"getch()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ngModel",
+			"pq",
+			"long long int",
+			"der",
+			"izq",
+			"Vector",
+			"Map",
+			"nodes",
+			"nueva",
+			"str",
+			"c",
+			"push",
+			"py-notify",
+			"getchar()"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/pages/ejemplos/ejemplos.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/pages/ejemplos/ejemplos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 110.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "Optimizaci-n2.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kernek.",
+				"vendor/symfony/http-kernel/Kernel.php"
+			],
+			[
+				"verify",
+				"app/Http/Middleware/VerifyCsrfToken.php"
+			],
+			[
+				"shopp",
+				"app/Http/Controllers/ShoppingCartsController.php"
+			],
+			[
+				"addcu",
+				"database/migrations/2017_01_28_153836_AddCustomIDColumnToShoppingCarts.php"
+			],
+			[
+				"app.scss",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"shopping",
+				"app/ShoppingCart.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/GIT/Optimizaci-n/Optimizaci-n.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
