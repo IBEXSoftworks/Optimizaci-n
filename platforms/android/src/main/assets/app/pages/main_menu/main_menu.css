@@ -1,0 +1,15 @@
+
+.my-btn{
+    background-color: #141414;
+    color: white;
+    transition: all 0.8s;
+}
+.my-btn:active{
+    background-color: whitesmoke;
+    color: #141414;
+}
+
+.hide{
+    display: none;
+}
+
