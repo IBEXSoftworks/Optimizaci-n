@@ -1,5 +1,5 @@
 Optimizaci-n.sublime-workspace
-hooks
-node_modules
-platforms
+hooks/**
+node_modules/**
+platforms/**
 app/**/*.js
