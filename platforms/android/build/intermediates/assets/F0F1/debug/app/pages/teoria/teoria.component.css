@@ -1,0 +1,12 @@
+.my-ActionBar {
+    color: #ecf0f1;
+    background-color: #e74c3c;
+}
+.myTitle{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-justify: inter-word;
+    background-color: blue;
+}

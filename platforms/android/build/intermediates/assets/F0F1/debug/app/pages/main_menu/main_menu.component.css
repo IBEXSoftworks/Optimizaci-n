@@ -1,0 +1,33 @@
+
+.my-btn{
+    background-color: #141414;
+    color: white;
+    transition: all 0.8s;
+    font-size: 18;
+    height: 60;
+}
+.my-btn-red{
+    background-color: #e74c3c;
+}
+.my-btn-blue{
+    background-color: #3498db;
+}
+.my-btn-green{
+    background-color: #2ecc71;
+}
+.my-btn:active{
+    background-color: lightgray;
+    color: #141414;
+}
+
+.hide{
+    display: none;
+}
+
+.my-menu{
+    /*background-color: black;*/
+    margin-right: 16;
+    margin-left: 16;
+    height: 230;
+    width: 85%;
+}
