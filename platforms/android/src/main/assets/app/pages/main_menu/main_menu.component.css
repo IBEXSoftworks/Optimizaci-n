@@ -14,11 +14,17 @@
     background-color: #3498db;
 }
 .my-btn-green{
-    background-color: #2ecc71;
+    background-color: #141414;
 }
-.my-btn:active{
-    background-color: lightgray;
-    color: #141414;
+
+.my-btn-red:active{
+    background-color: #c0392b;
+}
+.my-btn-blue:active{
+    background-color: #2980b9;
+}
+.my-btn-green:active{
+    background-color: #000;
 }
 
 .hide{
