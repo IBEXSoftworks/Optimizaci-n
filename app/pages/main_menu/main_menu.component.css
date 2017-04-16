@@ -4,7 +4,7 @@
     color: white;
     transition: all 0.8s;
     font-size: 18;
-    height: 20%;
+    height: 25%;
 }
 
 .my-btn-red{
@@ -30,6 +30,5 @@
     margin-left: 16;
     height: 50%;
     width: 85%;
-    padding-top: 50%;
-    margin-bottom: 0px;
+    vertical-align: middle;
 }
