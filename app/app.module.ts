@@ -5,8 +5,9 @@ import { AppComponent } from "./app.component";
 
 import { MainMenuComponent } from "./pages/main_menu/main_menu.component";
 import { TheoryComponent } from "./pages/teoria/teoria.component";
-import { ExamplesComponent } from "./pages/ejemplos/ejemplos.component";
+import { ExamplesListComponent } from "./pages/ejemplos/lista/ejemplosLista.component";
 import { ExercisesComponent } from "./pages/ejercicios/ejercicios.component";
+import { ExamplesComponent } from "./pages/ejemplos/ejemplos.component";
 
 @NgModule({
     bootstrap: [
@@ -20,8 +21,9 @@ import { ExercisesComponent } from "./pages/ejercicios/ejercicios.component";
         AppComponent,
         MainMenuComponent,
         TheoryComponent,
-        ExamplesComponent,
-        ExercisesComponent
+        ExamplesListComponent,
+        ExercisesComponent,
+        ExamplesComponent
     ],
     schemas: [
         NO_ERRORS_SCHEMA

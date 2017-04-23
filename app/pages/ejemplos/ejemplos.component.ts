@@ -1,40 +1,43 @@
-import {Component, ChangeDetectionStrategy, Input} from "@angular/core";
-
-class ExampleItem
-{
-    constructor(public name: string){}
-}
+import { Component, OnInit } from "@angular/core";
+import { WebView, LoadEventData } from "ui/web-view";
+import { Page } from "ui/page";
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
     selector: "examples",
     templateUrl: "pages/ejemplos/ejemplos.component.html",
-    styleUrls: ["pages/ejemplos/ejemplos.component.css"],
-    changeDetection: ChangeDetectionStrategy.OnPush
+    styleUrls: ["pages/ejemplos/ejemplos.component.css"]
 })
 
 
 
-export class ExamplesComponent
-{
-    public myExamples: Array<ExampleItem>;
-    private exampleNames: string[];
-   
-    constructor()
-    {
-        this.exampleNames = [];
-        for(var i = 0; i<50;i++)
-        {
-            this.exampleNames[this.exampleNames.length] = ("Ejemplo " + i.toString());
-        }
-        this.myExamples = [];
-        for(var i = 0; i<this.exampleNames.length; i++)
-        {
-            this.myExamples.push(new ExampleItem(this.exampleNames[i]));
-        }
-    }
-    
-    public onExampleTap(args)
-    {
-        alert(args.index);
+export class ExamplesComponent {
+    exampleUrl: string;
+
+    constructor(
+        private page: Page,
+        private route: ActivatedRoute,
+        private router: Router) { }
+
+    ngOnInit() {
+        let nexample: string;
+        this.route.queryParams.subscribe(params => {
+            nexample = params["example"];
+        });
+        this.exampleUrl = "http://optimizacinexamples-san1302.rhcloud.com/Ejemplo" + nexample;
+
+        let webview: WebView = this.page.getViewById<WebView>("wv");
+
+        webview.on(WebView.loadStartedEvent, function(args: LoadEventData) {
+            if (!args.error) {
+                if (webview.android) {
+                    webview.android.getSettings().setBuiltInZoomControls(false);
+                }
+            } else {
+                alert('Oops!, something went wrong!, try again later.');
+            }
+        });
+
+
     }
 }

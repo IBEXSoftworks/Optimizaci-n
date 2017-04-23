@@ -10,6 +10,6 @@ export class MainMenuComponent{
     menuItems:string[][] = [ 
         ["Teoría", "teoria", "my-btn-red "], 
         ["Ejercicios Resueltos", "ejercicios","my-btn-blue "], 
-        ["Ejemplos", "ejemplos","my-btn-green"]
+        ["Ejemplos", "ejemplosLista","my-btn-green"]
     ];
 }
