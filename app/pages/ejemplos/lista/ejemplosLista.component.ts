@@ -1,22 +1,18 @@
-import {Component, ChangeDetectionStrategy, Input} from "@angular/core";
+import { Component } from "@angular/core";
 
 @Component({
     selector: "examples",
     templateUrl: "pages/ejemplos/lista/ejemplosLista.component.html",
-    styleUrls: ["pages/ejemplos/lista/ejemplosLista.component.css"],
-    changeDetection: ChangeDetectionStrategy.OnPush
+    styleUrls: ["pages/ejemplos/lista/ejemplosLista.component.css"]
 })
 
 
 
-export class ExamplesListComponent
-{
+export class ExamplesListComponent {
     public myExamples: string[] = [];
-   
-    constructor()
-    {
-        for(var i = 0; i<50;i++)
-        {
+
+    constructor() {
+        for (var i = 1; i <= 11; i++) {
             this.myExamples.push(i.toString())
         }
     }

@@ -31,6 +31,7 @@ export class ExamplesComponent {
         webview.on(WebView.loadStartedEvent, function(args: LoadEventData) {
             if (!args.error) {
                 if (webview.android) {
+                    webview.android.getSettings().setJavaScriptEnabled(true);
                     webview.android.getSettings().setBuiltInZoomControls(false);
                 }
             } else {
