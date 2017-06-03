@@ -24,7 +24,7 @@ export class ExamplesComponent {
         this.route.queryParams.subscribe(params => {
             nexample = params["example"];
         });
-        this.exampleUrl = "http://optimizacinexamples-san1302.rhcloud.com/Ejemplo" + nexample;
+        this.exampleUrl = "https://optimizacinexamples-san1302.rhcloud.com/Ejemplo" + nexample;
 
         let webview: WebView = this.page.getViewById<WebView>("wv");
 
