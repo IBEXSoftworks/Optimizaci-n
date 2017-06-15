@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"time": "Fri Jun 02 2017 21:17:41 GMT-0500 (CDT)",
+=======
+	"time": "Thu May 04 2017 14:01:13 GMT-0500 (Hora de verano central (México))",
+>>>>>>> db2e50602c9e6fc9228d4a11d79ea32cac2df604
 	"bundle": false,
 	"release": false,
 	"changesRequireBuild": false,
